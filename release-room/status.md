@@ -1,7 +1,7 @@
 # Release Room
 
 Wersja: 1.0
-Stan wydania: GOTOWY
-Decyzja wdrożeniowa: WYPUSZCZAMY W PIĄTEK
+Stan wydania: NIEGOTOWY
+Decyzja wdrożeniowa: NIEUSTALONA
 
 Koordynator: ziuteczek
