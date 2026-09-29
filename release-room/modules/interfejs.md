@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: ziuteczek
+Stan: GOTOWY
+Opis zmiany: interface implemented
