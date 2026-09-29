@@ -1,7 +1,7 @@
 # Release Room
 
 Wersja: 1.0
-Stan: GOTOWY
-Opis zmiany: Sprawdzono podstawowe scenariusze wydania.
+Stan wydania: GOTOWY
+Decyzja wdrożeniowa: WYPUSZCZAMY W PIĄTEK
 
 Koordynator: ziuteczek
